@@ -103,6 +103,7 @@
     <modules>
         <module>pig-common</module>
         <module>pig-upms</module>
+        <module>pig-eureka</module>
     </modules>
     <dependencyManagement>
         <dependencies>

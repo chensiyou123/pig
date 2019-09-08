@@ -12,5 +12,6 @@
     </parent>
     <modules>
         <module>pig-upms-api</module>
+        <module>pig-upms-biz</module>
     </modules>
 </project>
