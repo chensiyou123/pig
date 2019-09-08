@@ -12,7 +12,7 @@
 - 提供 lambda 、stream api 、webflux 的生产实践   
 
 
-<a href="http://pig4cloud.com/#/doc/pig" target="_blank">部署文档</a> | <a target="_blank" href="http://avue.top"> 前端解决方案</a> | <a target="_blank" href="https://gitee.com/log4j/pig/releases/v1.3.2"> 1.0  版本</a> | <a target="_blank" href="http://pigx.pig4cloud.com"> PigX在线体验</a>
+<a href="http://csy.com/#/doc/pig" target="_blank">部署文档</a> | <a target="_blank" href="http://avue.top"> 前端解决方案</a> | <a target="_blank" href="https://gitee.com/log4j/pig/releases/v1.3.2"> 1.0  版本</a> | <a target="_blank" href="http://pigx.csy.com"> PigX在线体验</a>
     
 ![](https://images.gitee.com/uploads/images/2019/0330/065147_85756aea_410595.png)
 
@@ -62,7 +62,7 @@ pig
 
 2. 不接受`功能请求`的 issue，功能请求可能会被直接关闭。  
 
-3. <a href="mailto:pig4cloud@qq.com">pig4cloud@qq.com</a>    
+3. <a href="mailto:csy@qq.com">csy@qq.com</a>    
 
 4. <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1022756131&site=qq&menu=yes"> 个人QQ: 1022756131</a>
 

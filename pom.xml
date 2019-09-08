@@ -24,7 +24,7 @@
     <version>0.0.1</version>
     <name>${project.artifactId}</name>
     <packaging>pom</packaging>
-    <url>https://www.pig4cloud.com</url>
+    <url>https://www.csy.com</url>
     <properties>
         <spring-boot.version>2.1.7.RELEASE</spring-boot.version>
         <spring-cloud.version>Greenwich.SR2</spring-cloud.version>
@@ -102,6 +102,7 @@
     </dependencies>
     <modules>
         <module>pig-common</module>
+        <module>pig-upms</module>
     </modules>
     <dependencyManagement>
         <dependencies>

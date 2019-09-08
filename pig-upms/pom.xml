@@ -2,16 +2,15 @@
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <artifactId>pig-common</artifactId>
+    <artifactId>pig-upms</artifactId>
+    <description>pig 通用用户权限管理聚合模块</description>
     <packaging>pom</packaging>
     <parent>
         <groupId>com.csy</groupId>
         <artifactId>pig</artifactId>
         <version>0.0.1</version>
     </parent>
-    <description>pig 公共聚合模块</description>
     <modules>
-        <module>pig-common-core</module>
-        <module>pig-common-log</module>
+        <module>pig-upms-api</module>
     </modules>
 </project>
